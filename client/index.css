@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+.main{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color: aqua;
+    box-shadow: 5px;
+}
